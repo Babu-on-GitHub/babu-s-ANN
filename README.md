@@ -21,7 +21,7 @@ This repository contains an implementation of an artificial neural network (ANN)
 
 ## Usage
 
-The provided Jupyter Notebook (`MLP.ipynb`) serves as a comprehensive guide to understanding and experimenting with the artificial neural network implementation. It includes explanations, code examples, and interactive sections to aid learning and exploration.
+The provided Jupyter Notebook (`MLP.ipynb`) serves as a comprehensive guide to understanding and experimenting with the artificial neural network implementation.
 
 ## Future Plans
 

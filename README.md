@@ -8,7 +8,7 @@ This repository contains an implementation of an artificial neural network (ANN)
 - Learn how to implement a multi-layer perceptron (MLP) with customizable architecture from scratch.
 - Explore various activation functions, loss functions, and optimization algorithms commonly used in neural networks.
 - Understand the process of training neural networks using techniques such as stochastic gradient descent (SGD) with mini-batch gradient descent (MBGD).
-- Learn how to evaluate the performance of neural networks using metrics such as accuracy, precision, recall, and F1-score.
+- Learn how to evaluate the performance of neural networks.
 
 ## Features
 
@@ -21,7 +21,7 @@ This repository contains an implementation of an artificial neural network (ANN)
 
 ## Usage
 
-The provided Jupyter Notebook (`MLP.ipynb`) serves as a comprehensive guide to understanding and experimenting with the artificial neural network implementation. It includes explanations, code examples, and interactive sections to aid learning and exploration.
+The provided Jupyter Notebook (`MLP.ipynb`) serves as a comprehensive guide to understanding and experimenting with the artificial neural network implementation.
 
 ## Future Plans
 
